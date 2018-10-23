@@ -24,7 +24,7 @@ Typescript is stricter than Javascript, so it could help us to understand how to
 First of all, we must have to install `@vue/cli`,<br>
 and run `vue create my-app`, and choice using Typescript.
 
-This CLI will help us to create a new react project with Typescript.
+This CLI will help us to create a new vue project with Typescript.
 
 ## Npm Install
 
