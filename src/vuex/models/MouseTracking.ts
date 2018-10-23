@@ -114,14 +114,14 @@ export default new VuexModule<IMouseTracking>('MouseTracking', {
     setTrackingCount(state, count: number) {
       if ('number' === typeof count && !isNaN(count)) {
         state.trackingCount = count;
-        state.mouseClients  = state.mouseClients.slice(0, state.trackingCount);
+        state.mouseClients  = state.turnOn ? state.mouseClients.slice(0, state.trackingCount) : [];
       }
     },
 
     setDefaultSize(state, size: number) {
       if ('number' === typeof size && !isNaN(size)) {
         state.defaultSize = size;
-        state.graphics    = movingFn.doGenerateGraphics(state);
+        state.graphics    = state.turnOn ? movingFn.doGenerateGraphics(state) : [];
       }
     },
 
