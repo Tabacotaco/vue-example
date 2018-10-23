@@ -1,0 +1,17 @@
+{
+  "hnavbar.label.lauguage": "Language",
+  "hnavbar.option.defaultLang": "As Default",
+
+  "bling.title.link": "Performance",
+  "bling.label.totalCount": "Total Ball(s)",
+  "bling.label.2wayBinding": "2-Way Binding",
+  "bling.label.2wayPlaceholder": "Input Text",
+
+  "tracking.title.link": "Nested Router",
+  "tracking.log.link": "Tracking Logs",
+  "tracking.size.link": "Graphics Size",
+  "tracking.label.totalCount": "Tracking Count",
+  "tracking.label.tcount": "Tracking Count",
+  "tracking.label.basicSize": "Basic Size",
+  "tracking.label.size": "Graphics Size"
+}

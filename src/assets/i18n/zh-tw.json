@@ -1,0 +1,17 @@
+{
+  "hnavbar.label.lauguage": "語言",
+  "hnavbar.option.defaultLang": "使用預設語言",
+
+  "bling.title.link": "效能測試",
+  "bling.label.totalCount": "總測試球數",
+  "bling.label.2wayBinding": "雙向綁定效能測試",
+  "bling.label.2wayPlaceholder": "請輸入",
+
+  "tracking.title.link": "巢狀式路由",
+  "tracking.log.link": "軌跡紀錄",
+  "tracking.size.link": "圖形大小",
+  "tracking.label.totalCount": "追蹤紀錄數",
+  "tracking.label.tcount": "保留記錄數",
+  "tracking.label.basicSize": "預設尺寸",
+  "tracking.label.size": "圖形尺寸"
+}
