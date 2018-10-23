@@ -16,8 +16,8 @@
       :style="{
         width      : `${graphics.size}px`,
         height     : `${graphics.size}px`,
-        top        : `${graphics.client.y}px`,
-        left       : `${graphics.client.x}px`,
+        top        : `${graphics.client.y + 20}px`,
+        left       : `${graphics.client.x + 20}px`,
         background : `radial-gradient(circle,white, rgb(${state.colorR}, ${state.colorG}, ${state.colorB}))`
       }" />
   </div>
