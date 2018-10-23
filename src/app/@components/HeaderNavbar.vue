@@ -86,8 +86,8 @@
 
             <div class="dropdown-divider"></div>
 
-            <a class="dropdown-item">
-              <i class="fa fa-repeat" @click="onChangeLanguage()" /> {{$t('hnavbar.option.defaultLang')}}
+            <a class="dropdown-item" @click="onChangeLanguage()">
+              <i class="fa fa-repeat" /> {{$t('hnavbar.option.defaultLang')}}
             </a>
           </div>
         </li>
