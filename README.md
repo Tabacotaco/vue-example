@@ -10,7 +10,7 @@ This project will show you as follows:
 - [vuex](https://www.npmjs.com/package/vuex)<br>
   A flux plugin in Vue.
 
-To see live [Live Demo](http://vue-app-vue-example.a3c1.starter-us-west-1.openshiftapps.com/mouse-tracking/size)
+To see live [Live Demo](http://vue-app-vue-example.a3c1.starter-us-west-1.openshiftapps.com/)
 
 ## Table of Contents
 - [Vue CLI 3](#vue-cli-3)
