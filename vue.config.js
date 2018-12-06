@@ -2,8 +2,8 @@ const ProvidePlugin = require('webpack').ProvidePlugin;
 const path = require('path');
 
 module.exports = {
+  baseUrl: '/vue-example/',
   outputDir: path.resolve(__dirname, 'docs'),
-  // assetsDir: 'static',
   devServer: {
     port: 3000
   },
